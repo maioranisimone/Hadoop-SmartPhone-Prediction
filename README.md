@@ -1,4 +1,4 @@
-# Hadoop-SmartPhone-Prediction
+# Hadoop SmartPhone Prediction
 
 ## Authors
 - [Maiorani Simone](https://github.com/maioranisimone)
