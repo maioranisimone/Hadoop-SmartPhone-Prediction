@@ -11,9 +11,6 @@ The repo contains a Hadoop cluster configuration and a client-server app. The go
 This image represents one possible output result.  
 <img src="Images/client.png">  
 
-This image represents one possible output result.  
-<img src="Images/client.png">  
-
 ## Hadoop Configuration
 
 The application is tested in both local and cluster modes.  
